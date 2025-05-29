@@ -1,11 +1,11 @@
 {
-    "display_name": "KAKA截图1.0",
+    "display_name": "AKA截图1.0",
     "loading_order": ,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
     "author": "",
-    "version": "2.1.0",
+    "version": "1.1.0",
     "homePage": ""
 }
